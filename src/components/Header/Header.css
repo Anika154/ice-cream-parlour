@@ -1,0 +1,14 @@
+.header{
+    background-image: url('./ice.jpg');
+    align-self: center;
+    background-color: lightgray;
+    margin-top: none;
+    margin-bottom: 50px;
+    padding: 2%;
+    color: white;
+    height: 60%;
+}
+.ice-cream{
+    color:yellow;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

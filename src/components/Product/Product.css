@@ -1,0 +1,32 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    background-color: wheat;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    border-radius: 10px;
+
+}
+.img-container{
+    width: 70%;
+    height: 250px;
+    margin-top: 10px;
+}
+.img-container img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.btn-regular{
+    background-color:rgb(182, 67, 73);
+    width: 125px;
+    height: 45px;
+    border: 1px solid lightgray;
+    border-radius: 30px;
+    color: papayawhip;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
